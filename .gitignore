@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+pyvenv.cfg
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Temporary IDE files
+tempCodeRunnerFile.py

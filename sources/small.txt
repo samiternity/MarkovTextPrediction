@@ -1,0 +1,10 @@
+This is a small txt file. It is used to demonstrate source toggling feature of our app.
+
+Repeating words:
+
+This is a car. This is a cat. This is a book. This is a car. This is a car once again.
+
+Most occuring word of txt file:
+
+. (8 times)
+this (7 times)
