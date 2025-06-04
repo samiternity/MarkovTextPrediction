@@ -16,7 +16,7 @@ This project was created as part of the 2nd semester Probability and Statistics 
 ## How It Works
 ---
 
-This app predicts the next words as you type by learning from text sources. It uses a probability model called a Markov Chain, which looks at the last one or two words you wrote to guess what might come next. For example, if you type "Romeo and" it suggests words that often follow, like "Juliet" based on patterns in the training texts. You can also choose which texts to use for predictions through the app’s interface.
+This app predicts the next words as you type by learning from text sources. It uses a probability model called a Markov Chain, which looks at the last one or two words you wrote to guess what might come next. For example, if you type "Romeo and" it suggests words that often follow, like "juliet" based on patterns in the training texts. You can also choose which texts to use for predictions through the app’s interface.
 
 
 ## Features
