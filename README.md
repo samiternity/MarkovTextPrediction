@@ -73,7 +73,7 @@ MarkovTextPrediction/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/MarkovTextPrediction.git
+   git clone https://github.com/samiternity/MarkovTextPrediction.git
    cd MarkovTextPrediction
    ```
 
